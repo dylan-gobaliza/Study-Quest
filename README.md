@@ -45,4 +45,13 @@ The program is organised into separate functions for adding tasks, viewing tasks
 * **GitHub Codespaces** - Used as the development environment.
 * **GitHub Copilot and ChatGPT** - Used for AI-assisted suggestions and development support.
 
+## Screenshots
 
+### Main Menu
+![StudyQuest main menu](mainmenu.png)
+
+### Tasks and XP
+![StudyQuest tasks](taskprogress.png)
+
+### Goal Completed
+![StudyQuest goal completed](goalcompleted.png)
