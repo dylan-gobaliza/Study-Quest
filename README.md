@@ -1,2 +1,3 @@
 # Study-Quest
-Study Quest turns what is usually boring - studying (for some) into something that can be enjoyed and seen in a more positive light! Students add in their tasks, and complete them to earn XP! This XP is used in a level system and can motivate children to study!
+Study Quest turns what can sometimes be boring - studying - into something more engaging and rewarding! Students add in their tasks, and complete them to earn XP. This XP is used in a level system and can motivate children to study. Students can add their study tasks, rate their difficulty, and complete them to earn XP. Study Quest uses this XP to track progress and encourage students to approach their workload as a series of achievable quests.
+The goal is to make studying feel less overwhelming and more positive by adding a simple game-like progression system.
