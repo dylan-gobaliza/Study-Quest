@@ -14,10 +14,9 @@ The goal is to make studying feel less overwhelming and more positive by adding 
 2. Open a terminal in the project folder.
 3. Run:
 
-```bash
 python studyquest.py
 
-4. Open the repository folder in a Python-compatible IDE or terminal
+5. Open the repository folder in a Python-compatible IDE or terminal
 
 ## Features
 
